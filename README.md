@@ -101,7 +101,7 @@ python FP-growth.py
 python apriorir.py
 
 # 销售额预测
-python time_series_forecast.py "Online Retail.xlsx"
+python time_series_forecast.py
 ```
 
 ---

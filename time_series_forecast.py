@@ -325,7 +325,7 @@ def main(file_path: str):
 
 if __name__ == "__main__":
     # 默认文件路径
-    DEFAULT_FILE = Path(r"C:\Users\Zombie\Desktop\大三下\数据结构实验\课程大报告\清洗后数据.xlsx")
+    DEFAULT_FILE = Path(r"清洗后数据.xlsx")
 
     # 处理命令行参数
     if len(sys.argv) == 2:
